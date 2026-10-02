@@ -14,7 +14,7 @@ function observeElements(elements) {
       });
     },
     {
-      threshold: 0.1,
+      threshold: 0.5,
       rootMargin: "0px 0px -8% 0px",
     },
   );
